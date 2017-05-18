@@ -11,6 +11,20 @@
 
 </types>
 
+<types>
+
+<members>*</members>
+
+<name>CustomeObjects</name>
+
+</types>
+<types>
+
+<members>*</members>
+
+<name>ApexTriggers</name>
+
+</types>
 
 -<types>
 
